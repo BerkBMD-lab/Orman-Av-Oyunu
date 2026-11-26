@@ -19,5 +19,5 @@ Oyuna başlangıç noktası **`OrmanMacerasiTest.java`** dosyasıdır.
 
 1. Depoyu bilgisayarına indir veya klonla:
    ```bash
-   git clone <https://github.com/BerkBmD-lab/ilk.git>
-   cd OrmanMacerasi
+   git clone https://github.com/BerkBmD-lab/ilk.git
+   cd ilk
